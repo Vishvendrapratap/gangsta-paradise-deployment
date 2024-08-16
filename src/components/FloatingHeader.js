@@ -95,6 +95,7 @@ export default function FloatingHeader() {
         sx={{
           backgroundColor: "#1d1d1d",
           boxShadow: "0px 2px 5px rgba(0, 0, 0, 0.5)",
+          marginRight: "20px",
         }}
       >
         <Toolbar>

@@ -37,7 +37,7 @@ const AboutUsSection = () => {
           component="img"
           alt="Gangsta Paradise"
           height="140"
-          image="images/IMG_6244.png"
+          image="images/IMG_6244.jpg"
         />
         <CardContent>
           <Typography variant="h4" component="div" gutterBottom>

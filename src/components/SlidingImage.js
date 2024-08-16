@@ -4,7 +4,7 @@ import "./styles/SlidingImage.css";
 const SlidingImage = () => {
   return (
     <div className="image-container">
-      <img src="/images/IMG_6246.png" alt="Sliding Image" />
+      <img src="/images/IMG_6246.jpg" alt="Sliding Image" />
       <div className="details"></div>
       <h1>In Meerut now.</h1>
     </div>
